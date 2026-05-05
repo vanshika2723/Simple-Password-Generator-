@@ -27,4 +27,4 @@ git clone https://github.com/your-username/password-generator.git
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by Vanshika
+## Made with ❤️ by Vanshika
