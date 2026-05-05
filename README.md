@@ -25,6 +25,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/password-generator.git
 
-## 🧑‍💻 Author
 
-## Made with ❤️ by Vanshika
